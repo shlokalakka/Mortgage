@@ -1,0 +1,38 @@
+{
+  "url": "https://help.moengage.com/hc/en-us/articles/207836953-Derived-Events-Attributes",
+  "readability": {
+    "Flesch-Kincaid": 53.4,
+    "Gunning Fog": 12.9,
+    "assessment": "The text is moderately readable for non-technical marketers, but contains jargon and compound sentences that may reduce clarity. Definitions are not always provided."
+  },
+  "llm_analysis": {
+    "readability": {
+      "assessment": "Some technical terminology like 'drop-off events' and 'derived event attributes' are used without explanation.",
+      "suggestions": [
+        "Define terms like 'derived events' and 'event attributes' on first mention.",
+        "Break long paragraphs into smaller chunks to aid scanning."
+      ]
+    },
+    "structure_and_flow": {
+      "assessment": "Content is organized as a list, but lacks a clear introduction and navigational cues.",
+      "suggestions": [
+        "Add an introductory paragraph explaining what the user will learn.",
+        "Group similar derived events under subheadings with summaries."
+      ]
+    },
+    "completeness": {
+      "assessment": "The article lists many events but doesn’t explain how to use them in campaigns or segmentation.",
+      "suggestions": [
+        "Provide at least one marketing use-case per category of event.",
+        "Include screenshots or links showing how these are used inside the dashboard."
+      ]
+    },
+    "style_guidelines": {
+      "assessment": "Tone is neutral but not user-centric. Some instructions are passive.",
+      "suggestions": [
+        "Change 'is tracked' to 'MoEngage tracks' for clarity.",
+        "Avoid repeating 'This is tracked only if...'—replace with a table or bullet list for conciseness."
+      ]
+    }
+  }
+}
