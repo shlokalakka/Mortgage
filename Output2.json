@@ -1,0 +1,38 @@
+{
+  "url": "https://help.moengage.com/hc/en-us/articles/360033994932-Segment-Users-in-Analytics",
+  "readability": {
+    "Flesch-Kincaid": 61.8,
+    "Gunning Fog": 10.2,
+    "assessment": "The article is fairly readable for a marketer, especially due to its step-by-step format and screenshots. Some complex filters may require simplification."
+  },
+  "llm_analysis": {
+    "readability": {
+      "assessment": "The use of numbered steps and visual aids helps readability significantly.",
+      "suggestions": [
+        "Explain terms like 'custom segment' in simple language before jumping into filter options.",
+        "Avoid phrases like 'Navigate to the cohort analysis tab' without showing where it is."
+      ]
+    },
+    "structure_and_flow": {
+      "assessment": "The structure follows a linear, user-task format, which is helpful.",
+      "suggestions": [
+        "Add a summary box at the top outlining prerequisites or what users will accomplish.",
+        "Use collapsible sections or tabs to group optional advanced features."
+      ]
+    },
+    "completeness": {
+      "assessment": "Provides good basic instructions but doesn’t explain what users might do with the output of segmentation.",
+      "suggestions": [
+        "Include a brief use case: 'Once users are segmented, you can send a re-engagement campaign using X tool.'",
+        "Clarify the difference between 'Live segments' and 'Custom segments'."
+      ]
+    },
+    "style_guidelines": {
+      "assessment": "Mostly action-oriented and instructional, but inconsistent phrasing in headers.",
+      "suggestions": [
+        "Standardize headers to use verbs: e.g., 'Create a Segment' instead of 'Segment Creation'.",
+        "Replace vague phrasing like 'Click on Analytics' with 'Click on the Analytics tab in the top menu.'"
+      ]
+    }
+  }
+}
